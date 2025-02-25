@@ -10,7 +10,7 @@ An implementation of a Generative Adversarial Network (GAN) trained on the Fashi
 - Implemented in Jupyter Notebook (.ipynb) format for seamless execution in Google Colab.
 
 ## How to Run
-1. Open `train.ipynb` in Google Colab.
+1. Open `train.ipynb`.
 2. Install the required dependencies by running:
    ```sh
    !pip install tensorflow tensorflow-gpu matplotlib tensorflow-datasets ipywidgets
